@@ -1,0 +1,6 @@
+customer_id,customer_name,city,product,quantity,price
+101,John,Chennai,Laptop,2,70000
+102,Alice,Bangalore,Phone,5,30000
+103,Bob,Hyderabad,Tablet,1,25000
+104,Emma,Mumbai,Monitor,3,15000
+105,David,Delhi,Keyboard,10,2000
